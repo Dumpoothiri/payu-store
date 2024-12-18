@@ -10,9 +10,9 @@ var gateway = braintree.connect({
 // Fill in the sandbox credentials and remove the #error code above.
 // Create an test account at https://www.braintreepayments.com/get-started
 
-  merchantId : "",
-  publicKey : "",
-  privateKey : ""
+  merchantId : "mrpfc86jf73s5sq9",
+  publicKey : "cmct6mg2cz7ktqz5",
+  privateKey : "6ac4197b04fa04e5d95932ccd285b094"
 });
 
 var auth_sessions = {};
